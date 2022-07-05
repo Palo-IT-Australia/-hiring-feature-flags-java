@@ -1,7 +1,6 @@
 #### This is a coding exercise for interview process
 
 ## Feature flags
-***
 Feature flags is a way how to enable some functionalities to selected customers before releasing it to the mainstream.
 
 ### Tasks to implement
